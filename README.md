@@ -11,7 +11,12 @@ Netflix is an American media-services provider and production company. The compa
   <img width="800" height="829" src="./img/netflix.png">
 </p>
 
-## Technologies
+## Technologies used
 * HTML5
-* CSS [Flex and Grid for responsive design]
+* CSS [Flexbox and Grid for responsive design]
 * JavaScript [Logic for tabs]
+
+
+## License
+
+This project is licensed under the MIT License. 
