@@ -7,8 +7,6 @@
   <img width="800" height="829" src="./img/netflix.png">
 </p>
 
-
-
 <p align="center">
-JavaScript is a dynamic interpreted language that powers the web. It is widely used in browsers and increasingly on servers. This document is a cheatsheet for JavaScript you will frequently encounter in modern projects and most contemporary sample code.
+Netflix is an American media-services provider and production company. The company's primary business is its subscription-based streaming service which offers online streaming of a library of films and television programs, including those produced in-house.
 </p>
