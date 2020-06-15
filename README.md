@@ -2,8 +2,6 @@
 <h1 align="center">Netflix Landing Page</h1>
 
 ## Screenshots
-![Netflix](./img/netflix.png)
-
 
  <p align="center">
   <img width="800" height="829" src="./img/netflix.png">
